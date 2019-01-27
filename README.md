@@ -11,6 +11,8 @@ The goal of Pown.js is to rapidly create information security tools and develop 
 > While the project started in 2017, versions ~0 and ~1 don't have much to show for. The tooling was sort of integrated with the capabilities of SecApps and as a result, it appeared more of extension to a commercial penetration testing software then an opensource project with a life of its own. In Late 2018 and early 2019, the project took a completely different direction with version ~2. Pown is now a lot more independent and set for success.
 >
 > While you may find that Pown is covering areas already covered by other tools, the goal is not to just recreate them in JavaScript but to make them better. This is easier said than done but I believe with some nurture it is possible to speed them up and open their orignal design to more oportunities. Pown provides a set of core libraries that are designed with performance in mind so that helps when building the tools.
+>
+> The main philosophy behind Pown.js is that everything must run independently as much as possible so that code can be used outside of Pown itself. This anti-framework approach if you like. In fact, you can build your own tool in JavaScript and then add a single line to your `package.json` file with reference to your command line options to make it available in pown. Pown will do the rest.
 
 ## Logos
 
