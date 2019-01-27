@@ -16,6 +16,8 @@ The goal of Pown.js is to rapidly create information security tools and develop 
 
 ## Logos
 
+Feel free to use the following logs as you see fit.
+
 ### Variant 1 (pownjs.com)
 
 ```
