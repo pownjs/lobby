@@ -11,3 +11,45 @@ The goal of Pown.js is to rapidly create information security tools and develop 
 > While the project started in 2017, versions ~0 and ~1 don't have much to show for. The tooling was sort of integrated with the capabilities of SecApps and as a result, it appeared more of extension to a commercial penetration testing software then an opensource project with a life of its own. In Late 2018 and early 2019, the project took a completely different direction with version ~2. Pown is now a lot more independent and set for success.
 >
 > While you may find that Pown is covering areas already covered by other tools, the goal is not to just recreate them in JavaScript but to make them better. This is easier said than done but I believe with some nurture it is possible to speed them up and open their orignal design to more oportunities. Pown provides a set of core libraries that are designed with performance in mind so that helps when building the tools.
+
+## Logos
+
+### Variant 1 (pownjs.com)
+
+```
+88888b.  8888b. 888  888  88888888b.  
+888 "88b    "88b888  888  888888 "88b 
+888  888.d888888888  888  888888  888 
+888 d88P888  888Y88b 888 d88P888  888 
+88888P" "Y888888 "Y8888888P" 888  888 
+888                                   
+888        JS                         
+888
+```
+
+### Variant 2 (pown credits)
+
+```
++---------------------------------------------+
+|                                             |
+|                                             |
+|    88888b.  8888b. 888  888  88888888b.     |
+|    888 "88b    "88b888  888  888888 "88b    |
+|    888  888.d888888888  888  888888  888    |
+|    888 d88P888  888Y88b 888 d88P888  888    |
+|    88888P" "Y888888 "Y8888888P" 888  888    |
+|    888    d8b                               |
+|    888    Y8P                               |
+|    888                                      |
+|          8888 .d8888b                       |
+|          "888 88K                           |
+|           888 "Y8888b.                      |
+|           888      X88                      |
+|           888  88888P'                      |
+|           888                               |
+|          d88P                               |
+|        888P"                                |
+|                                             |
+|                                             |
++---------------------------------------------+
+```
