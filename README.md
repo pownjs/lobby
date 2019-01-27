@@ -4,6 +4,14 @@
 
 The goal of Pown.js is to rapidly create information security tools and develop new security testing and detection techniques by taking advantage of the vast JavaScript software eco-system.
 
+## Start
+
+The only prerequisite is Node. Install pown the same way all other global modules are installed.
+
+```
+$ npm install -g pown@latest
+```
+
 ## History
 
 > [@pdp](https://twitter.com/pdp): Pown.js was started in early 2017 as a collection of scripts to scratch a personal itch. At that time I was busy with setting up [SecApps](https://secapps.com) and I had a lot of useful snippets all over the code-base which I wanted to share as an opensource code. So Pown.js was started.
