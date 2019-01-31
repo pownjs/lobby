@@ -2,7 +2,7 @@
 
 # RSS
 
-This is a collection of various online resources.
+This is a  curated list of blogs, tutorials and other online resources.
 
 ## Hidden Web Services
 
