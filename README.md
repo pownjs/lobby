@@ -8,8 +8,16 @@ The goal of Pown.js is to rapidly create information security tools and develop 
 
 The only prerequisite is Node. Install pown the same way all other global modules are installed.
 
-```
+```sh
 $ npm install -g pown@latest
+```
+
+## Update
+
+We are constantly releasing new features. The following command will help you update.
+
+```sh
+$ pown update
 ```
 
 ## History
@@ -21,6 +29,12 @@ $ npm install -g pown@latest
 > While you may find that Pown is covering areas already covered by other tools, the goal is not to just recreate them in JavaScript but to make them better. This is easier said than done but I believe with some nurture it is possible to speed them up and open their orignal design to more oportunities. Pown provides a set of core libraries that are designed with performance in mind so that helps when building the tools.
 >
 > The main philosophy behind Pown.js is that everything must run independently as much as possible so that code can be used outside of Pown itself. This anti-framework approach if you like. In fact, you can build your own tool in JavaScript and then add a single line to your `package.json` file with reference to your command line options to make it available in pown. Pown will do the rest.
+
+## Versions
+
+* **2x Fury** - rapid, breaking changes
+* **1x Proto** - largely experimental
+* **8x Alpha** - the beginnings
 
 ## Logos
 
