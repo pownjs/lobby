@@ -78,6 +78,16 @@ Feel free to use the following logs as you see fit.
 +----------------------------------------------+
 ```
 
+### SecApps
+
+```
+ ___ ___ ___   _   ___ ___  ___
+/ __| __/ __| /_\ | _ \ _ \/ __|
+\__ \ _| (__ / _ \|  _/  _/\__ \
+|___/___\___/_/ \_\_| |_|  |___/
+ https://secapps.com
+```
+
 ## License
 
 All modules are published under the MIT license.
