@@ -118,6 +118,8 @@ SOFTWARE.
 
 ## Quickstart Template
 
+Replace `COMMAND` with the correct command name.
+
 ````markdown
 ## Quickstart
 
@@ -132,24 +134,24 @@ $ npm install -g pown@latest
 Invoke directly from Pown:
 
 ```sh
-$ pown TOOL
+$ pown COMMAND
 ```
 
 Otherwise, install this module locally from the root of your project:
 
 ```sh
-$ npm install @pown/TOOL --save
+$ npm install @pown/COMMAND --save
 ```
 
 Once done, invoke pown cli:
 
 ```sh
-$ ./node_modules/.bin/pown-cli TOOL
+$ ./node_modules/.bin/pown-cli COMMAND
 ```
 
 You can also use the global pown to invoke the tool locally:
 
 ```sh
-$ POWN_ROOT=. pown TOOL
+$ POWN_ROOT=. pown COMMAND
 ```
 ````
