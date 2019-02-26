@@ -137,7 +137,9 @@ Invoke directly from Pown:
 $ pown COMMAND
 ```
 
-Otherwise, install this module locally from the root of your project:
+### Alternative Setup
+
+Install this module locally from the root of your project:
 
 ```sh
 $ npm install @pown/COMMAND --save
