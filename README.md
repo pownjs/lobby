@@ -137,7 +137,7 @@ Invoke directly from Pown:
 $ pown COMMAND
 ```
 
-### Alternative Setup
+### Library Use
 
 Install this module locally from the root of your project:
 
