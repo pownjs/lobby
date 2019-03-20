@@ -148,7 +148,7 @@ $ npm install @pown/COMMAND --save
 Once done, invoke pown cli:
 
 ```sh
-$ ./node_modules/.bin/pown-cli COMMAND
+$ POWN_ROOT=. ./node_modules/.bin/pown-cli COMMAND
 ```
 
 You can also use the global pown to invoke the tool locally:
