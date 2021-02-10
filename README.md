@@ -18,6 +18,7 @@ We are constantly releasing new features. The following command will help you up
 
 ```sh
 $ pown update
+$ pown modules update
 ```
 
 ## History
