@@ -96,7 +96,7 @@ All modules are published under the MIT license.
 ```
 MIT License
 
-Copyright (c) 2017-2019 pownjs
+Copyright (c) 2017-2022 pownjs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
